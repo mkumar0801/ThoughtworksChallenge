@@ -13,7 +13,7 @@ public class Test {
 		System.out.println(decryptedMessage);
 		
 		Stage1 stage1 = new Stage1();
-		stage1.solveStage1();
+		stage1.solveStage1();....
 		**/
 		String hiddenTools = "opekandifehgujnsr";
 		//String hiddenTools = "asdkasfnafgfdihfghjegjggkuknlsjklroasdfpe345targmoxzucvr";
